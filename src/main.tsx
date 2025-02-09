@@ -9,7 +9,7 @@ const App: React.FC = () => {
                 <h1 className="text-3xl font-bold">Professional Development Website</h1>
                 <nav className="mt-2">
                     <a href="#" className="mx-2 text-white hover:underline">Home</a>
-                    <a href="#" className="mx-2 text-white hover:underline">About</a>
+                    <a href="pages/about.html" className="mx-2 text-white hover:underline">About</a>
                     <a href="#" className="mx-2 text-white hover:underline">Contact</a>
                 </nav>
             </header>
